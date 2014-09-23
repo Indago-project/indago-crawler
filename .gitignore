@@ -1,0 +1,13 @@
+.settings
+.project
+target/*
+.classpath
+derby.log
+log.out
+/target
+.idea
+*.iml
+*.bak
+*.webm
+src/main/webapp/showsDB/*
+/target
